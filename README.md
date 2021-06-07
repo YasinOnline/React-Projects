@@ -1,5 +1,6 @@
 # React-Projects
 This is the repository which holds my reacts' projects.
+Each branch contains a separate project.
 
 <hr>
 
